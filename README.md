@@ -1,2 +1,3 @@
 # hello-world
-Starting
+Start
+#A bit about myself
